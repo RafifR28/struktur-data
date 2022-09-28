@@ -1,0 +1,2 @@
+Soal 2
+Udinus akan membantu korban bencana alam dengan mengirimkan paket sembako. Paket sembako dikemas kedalam sebuan wadah berupa tabung. Dan paket sembako tsb akan dimasukkan kedalam peti kemas. Buatlah program untuk menentukan berapa paket sembako yang bisa dimuat kedalam peti kemas?
