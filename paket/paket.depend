@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1664364272 source:c:\users\lenovo\onedrive\documents\kuliah-semester_3\struktur data\paket\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+
